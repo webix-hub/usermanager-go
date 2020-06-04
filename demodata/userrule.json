@@ -1,0 +1,30 @@
+[
+  {
+    "UserID": 98,
+    "RuleID": 2
+  },
+  {
+    "UserID": 97,
+    "RuleID": 3
+  },
+  {
+    "UserID": 87,
+    "RuleID": 2
+  },
+  {
+    "UserID": 97,
+    "RuleID": 1
+  },
+  {
+    "UserID": 87,
+    "RuleID": 3
+  },
+  {
+    "UserID": 98,
+    "RuleID": 4
+  },
+  {
+    "UserID": 98,
+    "RuleID": 1
+  }
+]

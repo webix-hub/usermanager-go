@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "color": "#00a037",
+    "details": ""
+  },
+  {
+    "id": 2,
+    "name": "Manager",
+    "color": "#e7a90b",
+    "details": ""
+  },
+  {
+    "id": 3,
+    "name": "Team Lead",
+    "color": "#038cd9",
+    "details": ""
+  },
+  {
+    "id": 4,
+    "name": "Reporting",
+    "color": "#ea77c0",
+    "details": ""
+  },
+  {
+    "id": 5,
+    "name": "Guest",
+    "color": "#0bbed7",
+    "details": ""
+  }
+]

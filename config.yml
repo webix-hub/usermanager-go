@@ -1,0 +1,15 @@
+server:
+  public: "http://localhost:8040"
+  port: ":8040"
+  data: "/tmp"
+db:
+  path: "/tmp/users.sqlite"
+  user: root
+  password: 1
+  host: 127.0.0.1
+  database: users
+
+login:
+  - id: 1
+    name: Local Password
+    strategy: local

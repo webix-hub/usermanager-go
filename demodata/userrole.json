@@ -1,0 +1,78 @@
+[
+  {
+    "UserID": 87,
+    "RoleID": 1
+  },
+  {
+    "UserID": 97,
+    "RoleID": 1
+  },
+  {
+    "UserID": 101,
+    "RoleID": 1
+  },
+  {
+    "UserID": 97,
+    "RoleID": 2
+  },
+  {
+    "UserID": 87,
+    "RoleID": 3
+  },
+  {
+    "UserID": 98,
+    "RoleID": 3
+  },
+  {
+    "UserID": 101,
+    "RoleID": 4
+  },
+  {
+    "UserID": 97,
+    "RoleID": 4
+  },
+  {
+    "UserID": 87,
+    "RoleID": 4
+  },
+  {
+    "UserID": 87,
+    "RoleID": 16
+  },
+  {
+    "UserID": 106,
+    "RoleID": 5
+  },
+  {
+    "UserID": 103,
+    "RoleID": 4
+  },
+  {
+    "UserID": 104,
+    "RoleID": 4
+  },
+  {
+    "UserID": 105,
+    "RoleID": 5
+  },
+  {
+    "UserID": 107,
+    "RoleID": 5
+  },
+  {
+    "UserID": 108,
+    "RoleID": 5
+  },
+  {
+    "UserID": 103,
+    "RoleID": 2
+  },
+  {
+    "UserID": 102,
+    "RoleID": 4
+  },
+  {
+    "UserID": 97,
+    "RoleID": 16
+  }
+]
